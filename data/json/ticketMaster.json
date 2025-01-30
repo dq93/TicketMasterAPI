@@ -1,0 +1,700 @@
+{
+    "countries": {
+        "AE": {
+            "XML": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-AE-f6df323a-55fd-45c1-b4a8-2e0e7d0011ac-2025-01-29_031036.xml.gz",
+                "country_code": "AE",
+                "format": "XML",
+                "compressed_md5_checksum": "81339304469ed535ab4a1e8e20b712ef",
+                "compressed_size_bytes": 35499,
+                "last_updated": "2025-01-29T03:10:36Z",
+                "num_events": 76
+            },
+            "CSV": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-AE-26cd65a7-fc7e-4aab-b24f-84bcc63ed23e-2025-01-29_031035.csv.gz",
+                "country_code": "AE",
+                "format": "CSV",
+                "compressed_md5_checksum": "45f4b43b993b845e72567c8836d24e56",
+                "compressed_size_bytes": 12473,
+                "last_updated": "2025-01-29T03:10:36Z",
+                "num_events": 76
+            },
+            "JSON": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-AE-9e7c60f3-2f44-45bb-a6ca-36540a4526e2-2025-01-29_031036.json.gz",
+                "country_code": "AE",
+                "format": "JSON",
+                "compressed_md5_checksum": "d92a231dffab1630825cc733ba7fc25a",
+                "compressed_size_bytes": 36286,
+                "last_updated": "2025-01-29T03:10:36Z",
+                "num_events": 76
+            }
+        },
+        "AT": {
+            "XML": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-AT-864915ee-8124-428f-a798-1e2e111d5843-2025-01-29_030807.xml.gz",
+                "country_code": "AT",
+                "format": "XML",
+                "compressed_md5_checksum": "ae29d827cae0a1b12016266b7d6cb75d",
+                "compressed_size_bytes": 129945,
+                "last_updated": "2025-01-29T03:08:07Z",
+                "num_events": 324
+            },
+            "CSV": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-AT-0ba63c02-470e-4feb-a725-757be686215d-2025-01-29_030807.csv.gz",
+                "country_code": "AT",
+                "format": "CSV",
+                "compressed_md5_checksum": "f9c3e095c09e50085f49e30e73c01476",
+                "compressed_size_bytes": 58687,
+                "last_updated": "2025-01-29T03:08:07Z",
+                "num_events": 324
+            },
+            "JSON": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-AT-27f0965e-75ad-4485-a963-ace4cc9be720-2025-01-29_030807.json.gz",
+                "country_code": "AT",
+                "format": "JSON",
+                "compressed_md5_checksum": "77abff313d5cdccea0719ff9cbd823c5",
+                "compressed_size_bytes": 133776,
+                "last_updated": "2025-01-29T03:08:07Z",
+                "num_events": 324
+            }
+        },
+        "AU": {
+            "XML": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-AU-1c3c4145-c96b-4135-a810-d2df2d7cff42-2025-01-29_030706.xml.gz",
+                "country_code": "AU",
+                "format": "XML",
+                "compressed_md5_checksum": "ad29a2c10ef98b71b59f73f41c6ce8be",
+                "compressed_size_bytes": 4040157,
+                "last_updated": "2025-01-29T03:07:07Z",
+                "num_events": 3352
+            },
+            "CSV": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-AU-5a2df88b-d474-4614-886b-abc960eddb25-2025-01-29_030705.csv.gz",
+                "country_code": "AU",
+                "format": "CSV",
+                "compressed_md5_checksum": "2010ec625a556bf679d09d6934d3362e",
+                "compressed_size_bytes": 2382675,
+                "last_updated": "2025-01-29T03:07:05Z",
+                "num_events": 3352
+            },
+            "JSON": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-AU-4bfd97c8-4428-407f-af55-4730358bb5b9-2025-01-29_030707.json.gz",
+                "country_code": "AU",
+                "format": "JSON",
+                "compressed_md5_checksum": "1583f2d84cb2f0e816cd13f9f23a0209",
+                "compressed_size_bytes": 3954741,
+                "last_updated": "2025-01-29T03:07:08Z",
+                "num_events": 3352
+            }
+        },
+        "BE": {
+            "XML": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-BE-f9a54211-4b72-4198-8573-7469aef828c6-2025-01-29_030837.xml.gz",
+                "country_code": "BE",
+                "format": "XML",
+                "compressed_md5_checksum": "0e9a6f9f83752ce523718103a54dcb02",
+                "compressed_size_bytes": 858748,
+                "last_updated": "2025-01-29T03:08:37Z",
+                "num_events": 1692
+            },
+            "CSV": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-BE-1db0c97e-f816-4979-aad4-7838ee46d429-2025-01-29_030836.csv.gz",
+                "country_code": "BE",
+                "format": "CSV",
+                "compressed_md5_checksum": "5798f4191b47c435a559e057ec6bc7a4",
+                "compressed_size_bytes": 370027,
+                "last_updated": "2025-01-29T03:08:36Z",
+                "num_events": 1692
+            },
+            "JSON": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-BE-1e52cbb2-23bc-4b45-b682-25f4f5572e93-2025-01-29_030838.json.gz",
+                "country_code": "BE",
+                "format": "JSON",
+                "compressed_md5_checksum": "c30782e13176862a7cf55ee4b7d7d6d4",
+                "compressed_size_bytes": 874213,
+                "last_updated": "2025-01-29T03:08:38Z",
+                "num_events": 1692
+            }
+        },
+        "CA": {
+            "XML": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-CA-2e3d3a19-8caf-4020-a6c9-a42f20eff7a5-2025-01-29_031157.xml.gz",
+                "country_code": "CA",
+                "format": "XML",
+                "compressed_md5_checksum": "d64405709c77b7c9ae81b0218c5f0c73",
+                "compressed_size_bytes": 5906899,
+                "last_updated": "2025-01-29T03:11:58Z",
+                "num_events": 6427
+            },
+            "CSV": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-CA-fca706b9-572b-4b4b-9f47-02c0413b3dc5-2025-01-29_031155.csv.gz",
+                "country_code": "CA",
+                "format": "CSV",
+                "compressed_md5_checksum": "95b6b064e08f21f6f65bc40a68bf176f",
+                "compressed_size_bytes": 3615176,
+                "last_updated": "2025-01-29T03:11:56Z",
+                "num_events": 6427
+            },
+            "JSON": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-CA-a83a9caf-e408-4df7-aadc-51f60b4e2744-2025-01-29_031159.json.gz",
+                "country_code": "CA",
+                "format": "JSON",
+                "compressed_md5_checksum": "4952eabbf6ba4333cfc6c7d02ebf5f73",
+                "compressed_size_bytes": 5863598,
+                "last_updated": "2025-01-29T03:12:00Z",
+                "num_events": 6427
+            }
+        },
+        "CH": {
+            "XML": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-CH-0ac3a8e0-56ee-4973-83d3-a15314c771a7-2025-01-29_031240.xml.gz",
+                "country_code": "CH",
+                "format": "XML",
+                "compressed_md5_checksum": "e258b2b2bf643296020004c0f20fd683",
+                "compressed_size_bytes": 229776,
+                "last_updated": "2025-01-29T03:12:41Z",
+                "num_events": 418
+            },
+            "CSV": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-CH-74bd939a-f265-4c16-8118-f07792ba1eda-2025-01-29_031240.csv.gz",
+                "country_code": "CH",
+                "format": "CSV",
+                "compressed_md5_checksum": "7b663610c1bdf126f4be7583c6cf80a9",
+                "compressed_size_bytes": 82865,
+                "last_updated": "2025-01-29T03:12:41Z",
+                "num_events": 418
+            },
+            "JSON": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-CH-eb886a28-d80a-4ca3-8a04-d2da06cfd6a2-2025-01-29_031241.json.gz",
+                "country_code": "CH",
+                "format": "JSON",
+                "compressed_md5_checksum": "09ae4b0ab4407b2d764b3e7d90c2febe",
+                "compressed_size_bytes": 233303,
+                "last_updated": "2025-01-29T03:12:41Z",
+                "num_events": 418
+            }
+        },
+        "CZ": {
+            "XML": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-CZ-cad1c289-0466-4186-b465-dd701704abd9-2025-01-29_031220.xml.gz",
+                "country_code": "CZ",
+                "format": "XML",
+                "compressed_md5_checksum": "34441cd112256e642db76bc5a3f78195",
+                "compressed_size_bytes": 197408,
+                "last_updated": "2025-01-29T03:12:20Z",
+                "num_events": 358
+            },
+            "CSV": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-CZ-a355f134-60cb-441b-aab5-4472f9f92de0-2025-01-29_031220.csv.gz",
+                "country_code": "CZ",
+                "format": "CSV",
+                "compressed_md5_checksum": "2bfb7324533b25de54331952eb8bf6e2",
+                "compressed_size_bytes": 81191,
+                "last_updated": "2025-01-29T03:12:20Z",
+                "num_events": 358
+            },
+            "JSON": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-CZ-149cea6f-806d-48ff-974e-22c472f47b63-2025-01-29_031220.json.gz",
+                "country_code": "CZ",
+                "format": "JSON",
+                "compressed_md5_checksum": "cb478738d563c2544f9e7bfd8128ec41",
+                "compressed_size_bytes": 198726,
+                "last_updated": "2025-01-29T03:12:21Z",
+                "num_events": 358
+            }
+        },
+        "DE": {
+            "XML": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-DE-9cdf3bb9-ae8e-4c3f-a129-93af8a2ee8a7-2025-01-29_030909.xml.gz",
+                "country_code": "DE",
+                "format": "XML",
+                "compressed_md5_checksum": "042aba57df207b54ff06233c7da4d13c",
+                "compressed_size_bytes": 3238886,
+                "last_updated": "2025-01-29T03:09:10Z",
+                "num_events": 6068
+            },
+            "CSV": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-DE-4dc41528-2b28-4465-8883-67c02417ca0b-2025-01-29_030906.csv.gz",
+                "country_code": "DE",
+                "format": "CSV",
+                "compressed_md5_checksum": "63cad5dd076d50801c4e012f9213f6a4",
+                "compressed_size_bytes": 1461912,
+                "last_updated": "2025-01-29T03:09:06Z",
+                "num_events": 6068
+            },
+            "JSON": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-DE-2009220f-407c-4e8b-b9ae-9d773006ee11-2025-01-29_030912.json.gz",
+                "country_code": "DE",
+                "format": "JSON",
+                "compressed_md5_checksum": "1c65abddab0fb843149f0c840699d436",
+                "compressed_size_bytes": 3293798,
+                "last_updated": "2025-01-29T03:09:12Z",
+                "num_events": 6068
+            }
+        },
+        "DK": {
+            "XML": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-DK-ed1d79c7-053c-4489-b903-b910188eda4d-2025-01-29_031020.xml.gz",
+                "country_code": "DK",
+                "format": "XML",
+                "compressed_md5_checksum": "1726678dcb48db90b01598f51d52d646",
+                "compressed_size_bytes": 2102158,
+                "last_updated": "2025-01-29T03:10:21Z",
+                "num_events": 3872
+            },
+            "CSV": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-DK-8bd3aca4-469d-4c5b-9a94-bfbda60b8aaa-2025-01-29_031019.csv.gz",
+                "country_code": "DK",
+                "format": "CSV",
+                "compressed_md5_checksum": "cc17dc4377738b678782a8f0427576a3",
+                "compressed_size_bytes": 839761,
+                "last_updated": "2025-01-29T03:10:20Z",
+                "num_events": 3872
+            },
+            "JSON": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-DK-00086a05-70ab-47f1-bd2f-1f35fb6aafd4-2025-01-29_031021.json.gz",
+                "country_code": "DK",
+                "format": "JSON",
+                "compressed_md5_checksum": "3dd65f6fe7547d5d59bb4e488321721b",
+                "compressed_size_bytes": 2132706,
+                "last_updated": "2025-01-29T03:10:22Z",
+                "num_events": 3872
+            }
+        },
+        "ES": {
+            "XML": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-ES-1d2b3c5f-1b5b-4b1c-b253-d1384111721a-2025-01-29_030918.xml.gz",
+                "country_code": "ES",
+                "format": "XML",
+                "compressed_md5_checksum": "a095b24c41f63344bd2d7d679b5d1203",
+                "compressed_size_bytes": 695068,
+                "last_updated": "2025-01-29T03:09:18Z",
+                "num_events": 2625
+            },
+            "CSV": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-ES-a42e8912-a503-4c8b-87fc-917e7e30d130-2025-01-29_030917.csv.gz",
+                "country_code": "ES",
+                "format": "CSV",
+                "compressed_md5_checksum": "779b66a79c76afa40e86ad1ad3730f41",
+                "compressed_size_bytes": 375072,
+                "last_updated": "2025-01-29T03:09:17Z",
+                "num_events": 2625
+            },
+            "JSON": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-ES-2ba6fd63-0b38-44fc-be7b-febeb866e659-2025-01-29_030919.json.gz",
+                "country_code": "ES",
+                "format": "JSON",
+                "compressed_md5_checksum": "f3a0d2985d64c76cb777dfdfc0e2c12f",
+                "compressed_size_bytes": 712108,
+                "last_updated": "2025-01-29T03:09:19Z",
+                "num_events": 2625
+            }
+        },
+        "FI": {
+            "XML": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-FI-97f3de73-6f2a-4c16-a9a2-5fc7e0df288f-2025-01-29_031451.xml.gz",
+                "country_code": "FI",
+                "format": "XML",
+                "compressed_md5_checksum": "f6bf753c639b3c4da253f865807651a3",
+                "compressed_size_bytes": 883115,
+                "last_updated": "2025-01-29T03:14:51Z",
+                "num_events": 1527
+            },
+            "CSV": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-FI-5d16d8bf-8c4b-4976-9ad5-94f14532fd00-2025-01-29_031450.csv.gz",
+                "country_code": "FI",
+                "format": "CSV",
+                "compressed_md5_checksum": "3a72f34c740ee99c3f33395a530515b7",
+                "compressed_size_bytes": 345227,
+                "last_updated": "2025-01-29T03:14:51Z",
+                "num_events": 1527
+            },
+            "JSON": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-FI-27671f5a-3ec4-4efb-90a3-526cac58d95c-2025-01-29_031451.json.gz",
+                "country_code": "FI",
+                "format": "JSON",
+                "compressed_md5_checksum": "063f29f2805e0080868b87f08287bb30",
+                "compressed_size_bytes": 890629,
+                "last_updated": "2025-01-29T03:14:52Z",
+                "num_events": 1527
+            }
+        },
+        "FR": {
+            "XML": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-FR-51a72594-7ee9-44c6-a99a-809388a48928-2025-01-29_031434.xml.gz",
+                "country_code": "FR",
+                "format": "XML",
+                "compressed_md5_checksum": "e761084d447ed95f2ae2a3b8157190a5",
+                "compressed_size_bytes": 31138580,
+                "last_updated": "2025-01-29T03:14:35Z",
+                "num_events": 70139
+            },
+            "CSV": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-FR-a30ee063-3ed1-487b-a051-1ff2ecda81a3-2025-01-29_031417.csv.gz",
+                "country_code": "FR",
+                "format": "CSV",
+                "compressed_md5_checksum": "33cc3604a43b8cef43fd6e3f8dd0ab30",
+                "compressed_size_bytes": 15837875,
+                "last_updated": "2025-01-29T03:14:18Z",
+                "num_events": 70139
+            },
+            "JSON": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-FR-c772ba15-eb32-423e-bdbb-7c2e652c038c-2025-01-29_031448.json.gz",
+                "country_code": "FR",
+                "format": "JSON",
+                "compressed_md5_checksum": "14c9f49bfccf5ed67399cf0886dd9f13",
+                "compressed_size_bytes": 30486685,
+                "last_updated": "2025-01-29T03:14:49Z",
+                "num_events": 70139
+            }
+        },
+        "GB": {
+            "XML": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-GB-8ec3d54c-dbf9-4046-a36b-65a5d7566e4e-2025-01-29_021509.xml.gz",
+                "country_code": "GB",
+                "format": "XML",
+                "compressed_md5_checksum": "e427c68f0d77b5348e9f772a88a68ac2",
+                "compressed_size_bytes": 28351432,
+                "last_updated": "2025-01-29T02:15:10Z",
+                "num_events": 42843
+            },
+            "CSV": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-GB-6bd49574-2b0d-4748-9d25-43ed239f596a-2025-01-29_021458.csv.gz",
+                "country_code": "GB",
+                "format": "CSV",
+                "compressed_md5_checksum": "54503d4a478ad28cd5b48cf416a5b26d",
+                "compressed_size_bytes": 16326501,
+                "last_updated": "2025-01-29T02:14:58Z",
+                "num_events": 42843
+            },
+            "JSON": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-GB-860aeb68-a1ac-4965-8462-a2aabed528ef-2025-01-29_021520.json.gz",
+                "country_code": "GB",
+                "format": "JSON",
+                "compressed_md5_checksum": "8ef3b714ef1d1f3c0507e183ad012f83",
+                "compressed_size_bytes": 27825238,
+                "last_updated": "2025-01-29T02:15:20Z",
+                "num_events": 42843
+            }
+        },
+        "IE": {
+            "XML": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-IE-2936a625-92b2-4267-b11d-5db34c0c7db4-2025-01-29_031415.xml.gz",
+                "country_code": "IE",
+                "format": "XML",
+                "compressed_md5_checksum": "1ca3b66f0b7606f59c1e9091e767247b",
+                "compressed_size_bytes": 2014033,
+                "last_updated": "2025-01-29T03:14:16Z",
+                "num_events": 2377
+            },
+            "CSV": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-IE-bb0d2eb4-63db-45c2-8441-bf298f0c7ce8-2025-01-29_031414.csv.gz",
+                "country_code": "IE",
+                "format": "CSV",
+                "compressed_md5_checksum": "7f0f317d07cae498a9a5af6782986fdf",
+                "compressed_size_bytes": 842108,
+                "last_updated": "2025-01-29T03:14:15Z",
+                "num_events": 2377
+            },
+            "JSON": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-IE-f33be26e-e55e-4dd3-bc99-6f6e28c87357-2025-01-29_031416.json.gz",
+                "country_code": "IE",
+                "format": "JSON",
+                "compressed_md5_checksum": "cde410087e14ce73f51f55246d7bed9a",
+                "compressed_size_bytes": 1948674,
+                "last_updated": "2025-01-29T03:14:16Z",
+                "num_events": 2377
+            }
+        },
+        "IT": {
+            "XML": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-IT-6052b088-64bb-417a-96d3-b3fdf99a1e27-2025-01-29_031153.xml.gz",
+                "country_code": "IT",
+                "format": "XML",
+                "compressed_md5_checksum": "72585f395b0dad38d05c8e7d81758659",
+                "compressed_size_bytes": 336885,
+                "last_updated": "2025-01-29T03:11:53Z",
+                "num_events": 761
+            },
+            "CSV": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-IT-cbb8d03f-06e2-43a1-bb66-560210eb3fb4-2025-01-29_031152.csv.gz",
+                "country_code": "IT",
+                "format": "CSV",
+                "compressed_md5_checksum": "224040fe24fb63d3327552651d50d5e7",
+                "compressed_size_bytes": 135721,
+                "last_updated": "2025-01-29T03:11:53Z",
+                "num_events": 761
+            },
+            "JSON": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-IT-a1f31311-f8c8-4cfe-a774-55e02c0460ea-2025-01-29_031153.json.gz",
+                "country_code": "IT",
+                "format": "JSON",
+                "compressed_md5_checksum": "1994ee61e588977537080bae4f9b9b4c",
+                "compressed_size_bytes": 339756,
+                "last_updated": "2025-01-29T03:11:54Z",
+                "num_events": 761
+            }
+        },
+        "MX": {
+            "XML": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-MX-fa1181a2-77ef-41b2-ab9f-3d016afd5fe1-2025-01-29_030739.xml.gz",
+                "country_code": "MX",
+                "format": "XML",
+                "compressed_md5_checksum": "5339a31a5c299d5cae89229dc60dd098",
+                "compressed_size_bytes": 1981109,
+                "last_updated": "2025-01-29T03:07:40Z",
+                "num_events": 2060
+            },
+            "CSV": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-MX-ac4241ca-0fa3-4519-a000-22b82fdf7a6b-2025-01-29_030738.csv.gz",
+                "country_code": "MX",
+                "format": "CSV",
+                "compressed_md5_checksum": "a9da7fbff291e234d327cb20c1b20e06",
+                "compressed_size_bytes": 965975,
+                "last_updated": "2025-01-29T03:07:39Z",
+                "num_events": 2060
+            },
+            "JSON": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-MX-f4876d1f-9786-4d99-a2c5-20a9666f56a7-2025-01-29_030740.json.gz",
+                "country_code": "MX",
+                "format": "JSON",
+                "compressed_md5_checksum": "db2e05ee5ab528b120b7c1564f70c151",
+                "compressed_size_bytes": 1929985,
+                "last_updated": "2025-01-29T03:07:41Z",
+                "num_events": 2060
+            }
+        },
+        "NL": {
+            "XML": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-NL-6794615c-8596-48fe-829a-fd67f8bfa043-2025-01-29_031436.xml.gz",
+                "country_code": "NL",
+                "format": "XML",
+                "compressed_md5_checksum": "e3b33900a2684a0b8aeffe4a154b86bb",
+                "compressed_size_bytes": 1257564,
+                "last_updated": "2025-01-29T03:14:37Z",
+                "num_events": 2674
+            },
+            "CSV": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-NL-a2f237e8-7263-4ce3-9925-030ca80c387f-2025-01-29_031435.csv.gz",
+                "country_code": "NL",
+                "format": "CSV",
+                "compressed_md5_checksum": "a38fe0483a7b58d5548858b8f0f0ca8b",
+                "compressed_size_bytes": 522922,
+                "last_updated": "2025-01-29T03:14:36Z",
+                "num_events": 2674
+            },
+            "JSON": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-NL-51634904-8e01-41d9-9dbe-5fe2b9110125-2025-01-29_031437.json.gz",
+                "country_code": "NL",
+                "format": "JSON",
+                "compressed_md5_checksum": "62b11b3126f02c8998bc759f94dedc8e",
+                "compressed_size_bytes": 1279158,
+                "last_updated": "2025-01-29T03:14:37Z",
+                "num_events": 2674
+            }
+        },
+        "NO": {
+            "XML": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-NO-0596cc11-439b-4b0f-8977-d075c260c8b5-2025-01-29_031425.xml.gz",
+                "country_code": "NO",
+                "format": "XML",
+                "compressed_md5_checksum": "af43012e50871cc676255b10163531a9",
+                "compressed_size_bytes": 2493740,
+                "last_updated": "2025-01-29T03:14:26Z",
+                "num_events": 3750
+            },
+            "CSV": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-NO-ad52eee7-e687-4d67-b25b-0f3e6e29eb70-2025-01-29_031423.csv.gz",
+                "country_code": "NO",
+                "format": "CSV",
+                "compressed_md5_checksum": "930e8d659ad948dbdc3902d60567d154",
+                "compressed_size_bytes": 939589,
+                "last_updated": "2025-01-29T03:14:23Z",
+                "num_events": 3750
+            },
+            "JSON": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-NO-b2bf51e7-853e-4944-9305-a0623b0dbb4b-2025-01-29_031427.json.gz",
+                "country_code": "NO",
+                "format": "JSON",
+                "compressed_md5_checksum": "c47955cc4965478c752e2edc541440be",
+                "compressed_size_bytes": 2515343,
+                "last_updated": "2025-01-29T03:14:28Z",
+                "num_events": 3750
+            }
+        },
+        "NZ": {
+            "XML": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-NZ-f012bb26-1261-4d28-88c7-b0af1298013f-2025-01-29_030712.xml.gz",
+                "country_code": "NZ",
+                "format": "XML",
+                "compressed_md5_checksum": "58eb06660083d0daed06d619b3058186",
+                "compressed_size_bytes": 898907,
+                "last_updated": "2025-01-29T03:07:13Z",
+                "num_events": 927
+            },
+            "CSV": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-NZ-b78899f1-e862-43e6-bec9-d1b6721c4c69-2025-01-29_030712.csv.gz",
+                "country_code": "NZ",
+                "format": "CSV",
+                "compressed_md5_checksum": "11a98eba065017a9cb05ef316d84913d",
+                "compressed_size_bytes": 490723,
+                "last_updated": "2025-01-29T03:07:12Z",
+                "num_events": 927
+            },
+            "JSON": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-NZ-2b963f7d-845a-449a-b204-5d5bd50f339a-2025-01-29_030713.json.gz",
+                "country_code": "NZ",
+                "format": "JSON",
+                "compressed_md5_checksum": "9f16d4239cba220bca275a34fc38155f",
+                "compressed_size_bytes": 887275,
+                "last_updated": "2025-01-29T03:07:13Z",
+                "num_events": 927
+            }
+        },
+        "PL": {
+            "XML": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-PL-d4f64e07-51c2-4c93-9808-ed2b9dbcf806-2025-01-29_031347.xml.gz",
+                "country_code": "PL",
+                "format": "XML",
+                "compressed_md5_checksum": "d9be4aed7a7570f8a588a241fd51217c",
+                "compressed_size_bytes": 564122,
+                "last_updated": "2025-01-29T03:13:48Z",
+                "num_events": 774
+            },
+            "CSV": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-PL-03fcadf3-58ff-42ff-8231-d5cd07d63a49-2025-01-29_031347.csv.gz",
+                "country_code": "PL",
+                "format": "CSV",
+                "compressed_md5_checksum": "68671c884184d8ddebde927046040d37",
+                "compressed_size_bytes": 195534,
+                "last_updated": "2025-01-29T03:13:47Z",
+                "num_events": 774
+            },
+            "JSON": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-PL-46efc7a6-3241-40f8-b5ff-73196533ce2f-2025-01-29_031348.json.gz",
+                "country_code": "PL",
+                "format": "JSON",
+                "compressed_md5_checksum": "aa661c8c340ebda6cba8fb6207bd59c0",
+                "compressed_size_bytes": 563176,
+                "last_updated": "2025-01-29T03:13:48Z",
+                "num_events": 774
+            }
+        },
+        "SE": {
+            "XML": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-SE-9d86dcc5-a07f-4c8c-99bc-5bd5d9f8ca95-2025-01-29_031329.xml.gz",
+                "country_code": "SE",
+                "format": "XML",
+                "compressed_md5_checksum": "5cd1ed8eccefd19ff94f7339064c7105",
+                "compressed_size_bytes": 1175590,
+                "last_updated": "2025-01-29T03:13:29Z",
+                "num_events": 2126
+            },
+            "CSV": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-SE-b5cc3136-f57c-46e2-93f2-05c43712b136-2025-01-29_031328.csv.gz",
+                "country_code": "SE",
+                "format": "CSV",
+                "compressed_md5_checksum": "8fcd6440eacfedbe49a9e7dd8830eaac",
+                "compressed_size_bytes": 465588,
+                "last_updated": "2025-01-29T03:13:28Z",
+                "num_events": 2126
+            },
+            "JSON": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-SE-f0bb4593-5a9a-4422-b68b-72da0f2afa04-2025-01-29_031330.json.gz",
+                "country_code": "SE",
+                "format": "JSON",
+                "compressed_md5_checksum": "f9de85bf5057efe00734d94c31b7dd98",
+                "compressed_size_bytes": 1183201,
+                "last_updated": "2025-01-29T03:13:30Z",
+                "num_events": 2126
+            }
+        },
+        "TR": {
+            "XML": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-TR-e66ef104-ac6a-4e0c-b3e8-0a5db79ce4da-2025-01-29_030942.xml.gz",
+                "country_code": "TR",
+                "format": "XML",
+                "compressed_md5_checksum": "e90a91408801af1eb5c1bf83ebc85aef",
+                "compressed_size_bytes": 198650,
+                "last_updated": "2025-01-29T03:09:43Z",
+                "num_events": 993
+            },
+            "CSV": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-TR-6749c180-3ea0-478d-af8b-4a0084f5f839-2025-01-29_030942.csv.gz",
+                "country_code": "TR",
+                "format": "CSV",
+                "compressed_md5_checksum": "a2fefd600f66f2e255b591c03b446fca",
+                "compressed_size_bytes": 145474,
+                "last_updated": "2025-01-29T03:09:42Z",
+                "num_events": 993
+            },
+            "JSON": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-TR-54d8cb3e-91af-4c0c-a381-98c4bf0804f3-2025-01-29_030943.json.gz",
+                "country_code": "TR",
+                "format": "JSON",
+                "compressed_md5_checksum": "ec1c19ad9ccb12e058174c6ba7e5a831",
+                "compressed_size_bytes": 212544,
+                "last_updated": "2025-01-29T03:09:43Z",
+                "num_events": 993
+            }
+        },
+        "US": {
+            "XML": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-US-881bab4e-7a58-46d1-a185-b09a434792f3-2025-01-29_031749.xml.gz",
+                "country_code": "US",
+                "format": "XML",
+                "compressed_md5_checksum": "008d8d044baa1bb507cfa9989d5e52ab",
+                "compressed_size_bytes": 77240441,
+                "last_updated": "2025-01-29T03:17:50Z",
+                "num_events": 97711
+            },
+            "CSV": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-US-a8144ce6-fc7b-419f-818e-bd278b0d3eee-2025-01-29_031717.csv.gz",
+                "country_code": "US",
+                "format": "CSV",
+                "compressed_md5_checksum": "59f40a986bb26c0fe69e38b04e264b3a",
+                "compressed_size_bytes": 45615563,
+                "last_updated": "2025-01-29T03:17:18Z",
+                "num_events": 97711
+            },
+            "JSON": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-US-17b2bd9a-895c-4bfd-8b44-6da9eb50a453-2025-01-29_031818.json.gz",
+                "country_code": "US",
+                "format": "JSON",
+                "compressed_md5_checksum": "70bf8e2d86c7c3551552e4df3c251904",
+                "compressed_size_bytes": 76178561,
+                "last_updated": "2025-01-29T03:18:19Z",
+                "num_events": 97711
+            }
+        },
+        "ZA": {
+            "XML": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-ZA-d1de2862-30bc-43ec-a4fe-0e33fe745e7e-2025-01-29_031124.xml.gz",
+                "country_code": "ZA",
+                "format": "XML",
+                "compressed_md5_checksum": "a6773c9c562faa75043b381d8a8dfed3",
+                "compressed_size_bytes": 46670,
+                "last_updated": "2025-01-29T03:11:24Z",
+                "num_events": 154
+            },
+            "CSV": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-ZA-a9bc256e-ef24-4735-803e-1b49aa537bfd-2025-01-29_031124.csv.gz",
+                "country_code": "ZA",
+                "format": "CSV",
+                "compressed_md5_checksum": "8d4c65fca8e3a684fcf7535802fd15a0",
+                "compressed_size_bytes": 13547,
+                "last_updated": "2025-01-29T03:11:24Z",
+                "num_events": 154
+            },
+            "JSON": {
+                "uri": "https://s3.amazonaws.com/prd141.dcfd.prod1.us-east-1.tmaws-feeds/20250129/EVENTS_RAW-ZA-b825227d-f626-4e31-99e8-277e261a4be4-2025-01-29_031124.json.gz",
+                "country_code": "ZA",
+                "format": "JSON",
+                "compressed_md5_checksum": "e824afa9aecdcc818dc4aa862040fbbc",
+                "compressed_size_bytes": 47836,
+                "last_updated": "2025-01-29T03:11:24Z",
+                "num_events": 154
+            }
+        }
+    }
+}
