@@ -42,8 +42,27 @@ Looking at the mean and median of each Event Type, it is clear that all event ty
 | Music          | $94.74  | $59.50 |
 | Film           | $30.08  | $19.00 |
 
-Due to the extreme outliers and their impact on visualization of max price distribution, a violin plot was used to observe the density of Max Prices per event, filtering out any Max Prices over $300. The plot showed that the highest density of Max Prices for Arts & Theatre hovered at around $100, while the highest density of all other events hovered at the lower end between $20 to $50. This shows that for Arts & Theatre, maximum prices closer to the average of $113 are more common which shows more sustained popularity and demand for the Arts & Theatre events. For the other events, the higher density on the lower price range shows that the majority of events within these categories may not bring much demand. However, there are certain conditions that cause max prices to spike extremely high, as we'll with the outlier and maximum max price analysis below. 
+Due to the extreme outliers and their impact on visualization of max price distribution, a violin plot was used to observe the density of Max Prices per event, filtering out any Max Prices over $500 based on the max upper limit for Sports. The plot showed that the highest density of Max Prices for Arts & Theatre hovered at around $100, while the highest density of all other events hovered at the lower end between $20 to $50. This shows that for Arts & Theatre, maximum prices closer to the average of $113 are more common indicating more sustained popularity and demand for the Arts & Theatre events. For the other events, the higher density on the lower price range shows that the majority of events within these categories may not bring much demand. Instead, there may be select events for each of the remaining classifications that drive high maximum ticket prices due to event-specific popularity and wide-interest.  
 
+From the outlier data below, we can see that Sports displays the higher upper limit and a significant amount of 15% of all events have max ticket prices above this limit. Although Film shows a high number of outlier events, the Max Price upper limit is at a more humble price of $31.50, six times less than Sports. Arts & Theatre and Music also have a high upper limit, but still lie at nearly half of Sports' upper limit. This indicates that several sports events have a perceived high demand that results in extreme ticket prices going for sale. 
+
+#### Outliers
+| Classification |	Total Number of Events | Number of Outliers	| % Outliers from Total Events	| Upper Limit |
+| -------------- | ------- | ------ | ------ | ------ |
+| Sports |	7,720 |	1,125 |	15%	| $505.00 |
+| Arts & Theatre |	22,759	| 1,369 |	6%	| $258.30 |
+| Music	| 19,437 |	1,551 |	8%	| $208.25 |
+| Film | 202 |	42 | 21%	| $31.50 |
+
+Finally, taking a look at the specific events with the maximum max prices for each classification, we see some extreme prices for sports and music. For future analysis, it would be valuable to breakdown the certain characteristics of each "Event Name" and the max ticket prices distributed based on those characteristics (ex. music genre, sports team, film directors, etc.). For now, we can takeaway that Sports and Music events display a wide range of max prices that may correlate to the perceived demand of what extreme fans might be willing to pay for a seat in the venue. However, Arts & Theatre events show a more consistent and sustained demand with less extreme ticket prices. Additionally, film ticket prices remain on the lower end in comparison to the other three classifications. 
+
+#### Maximums
+| Classification |   Event Name  | Max Price |
+| -------------- | ------- | ------ |
+| Sports         | LA Clippers vs. Los Angeles Lakers | $21,000 |
+| Music | Free Beer (the Band) Florida's #1 Party Band (A Tribute to The Rooster! Marcus Outzen former QB for FSU) | $10,000 |
+| Arts & Theatre          | Kevin James: Owls Don't Walk  | $1,041 |
+| Film           | STOP MAKING SENSE: A Film by Jonathan Demme and Talking Heads  | $179 |
 
 
 ### B. State
