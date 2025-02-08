@@ -13,10 +13,10 @@ The TicketMasterAPI EDA is exploring **Maximum Price** (dependent variable) acro
     e. Event Genres
         -comparing maximum price trends across different event genres
 
-### Data Extraction:
+## Data Extraction:
 Data was extracted using a TicketMaster API. The raw json file size was too large to request, so a json file with AWS buckets storing the data was requested instead, and code was written in master_data_set.py to extract the csv download link for all US events. 
 
-### Exploratory Data Analysis:
+## Exploratory Data Analysis:
 
 ### Libraries, Packages, Modules & Submodules Used:
 
@@ -28,3 +28,12 @@ Data was extracted using a TicketMaster API. The raw json file size was too larg
     f. plotly pandas
     g. from random import randint
 
+## Analsysis Conclusions
+
+### A. Event Type
+    
+
+### B. State
+
+
+### C. Duration of Sales
