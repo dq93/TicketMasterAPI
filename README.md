@@ -34,6 +34,7 @@ Data was extracted using a TicketMaster API. The raw json file size was too larg
     
 
 ### B. State
+    There was one lone state with a maximum ticket price that was less than $100, and only 17 states between the $100-$999 range. The upper price ranges of $1000+ dominated the rest of the map, with California, Nevada, Kentucky, New York and Florida leading the pack as the uber-expensive. Exorbitant ticket prices might be explained by new venues, high-end event packages that give the event-goer an unforgettable experience, and loyal fans who will do what it takes to see their favorite performers. However, a deeper dive needs to be done to find out if these prices are indicative of one single ticket sale or packaged ticket sales with extra amenities. I would also be interested in knowing if these are direct ticket sales by Ticketmaster or if they are resales by outside sellers.
 
 
 ### C. Duration of Sales
