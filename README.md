@@ -28,7 +28,7 @@ Data was extracted using a TicketMaster API. The raw json file size was too larg
     f. plotly pandas
     g. from random import randint
 
-## Analsysis Conclusions
+## Analysis Conclusions
 
 ### A. Event Type
     
