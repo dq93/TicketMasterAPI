@@ -70,3 +70,4 @@ There was one lone state with a maximum ticket price that was less than $100, an
 
 
 ### C. Duration of Sales
+The sales durations are mostly focused on 2024 and 2025. There are some extreme outliers such as a sale starting on 2018 and a sale ending on 2030. The max price for those is not zero dollars so it doesn't seem like it's bad data. Most of the high prices are concentrated within the 2024-2025 range, possibly because they are the most relevant.
